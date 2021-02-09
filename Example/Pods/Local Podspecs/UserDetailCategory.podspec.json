@@ -1,0 +1,27 @@
+{
+  "name": "UserDetailCategory",
+  "version": "0.1.0",
+  "summary": "A short description of UserDetailCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuchongfaye/UserDetailCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuchongfaye": "liuchong@vmovier.com"
+  },
+  "source": {
+    "git": "https://github.com/liuchongfaye/UserDetailCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UserDetailCategory/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

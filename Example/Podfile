@@ -2,12 +2,17 @@ use_frameworks!
 
 platform :ios, '9.0'
 
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/liuchongfaye/MDSpecs.git'
+
 target 'UserDetailCategory_Example' do
   pod 'UserDetailCategory', :path => '../'
 
   target 'UserDetailCategory_Tests' do
     inherit! :search_paths
 
+    pod 'CTMediator'
+    #pod 'UserDetail'
     
   end
 end

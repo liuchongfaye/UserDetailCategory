@@ -1,0 +1,24 @@
+PODS:
+  - CTMediator (44)
+  - UserDetailCategory (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - CTMediator
+  - UserDetailCategory (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  UserDetailCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+  UserDetailCategory: 0c0492c39430c59c4f46f4205771e87240022c52
+
+PODFILE CHECKSUM: 15fe1ff2920eaf7453497e63f94ad0d383c6390d
+
+COCOAPODS: 1.8.4
