@@ -1,2 +1,2 @@
 # UserDetailCategory
-用户详情detail
+视频播放detail
